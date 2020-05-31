@@ -17,3 +17,20 @@ df.head()
 
 ```
 
+![Alt text](https://github.com/johnsigma/videogames/blob/master/imagens/saida01.png "5 jogos mais vendidos de consoles")
+
+Nesta imagem percebemos que o dataset possui 11 colunas, a seguir listarei as colunas e detalharei o que elas representam:
+* Rank = Classificação, nesse caso a os jogos estão classificados em ordem decrescente pelo número de vendas global (Global_Sales)
+* Name = Nome do jogo
+* Platform = Plataforma onde o game foi avaliado, nesse caso são os consoles
+* Year = Ano de lançamento do jogo
+* Genre = Gênero do jogo
+* NA_Sales = Vendas na América do Norte
+* EU_Sales = Vendas na União Europeia
+* JP_Sales = Vendas no Japão
+* Other_Sales = Vendas no resto do mundo
+* Global_Sales = Vendas no mundo todo
+
+Utilizando o comando .shape[0] obtemos o número de linhas desse dataset, nesse caso quantos jogos foram analisados:
+
+
