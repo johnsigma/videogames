@@ -2,7 +2,7 @@
 
 Pequena análise de dados sobre venda de jogos de videogames, feita apenas como um projeto pessoal de análise de dados, o conjunto de dados foi obtido através do link: https://www.kaggle.com/gregorut/videogamesales/data. Lá se encontra também a descrição de cada campo do dataset.
 
-Para essa análise eu usei a linguagem Python e algumas bibliotecas para análise de dados como o Pandas.
+Para essa análise eu usei a linguagem Python e algumas bibliotecas para análise de dados como o Pandas, seaborn.
 
 Importante ressaltar que os jogos são separados por plataformas, então um mesmo jogo será listado mais de uma vez se ele foi comercializado em mais de uma palataforma.
 
